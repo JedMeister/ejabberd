@@ -4,16 +4,16 @@ ejabberd
 
 apache2
 apache2-mpm-worker
-libapache2-mod-python
+//libapache2-mod-python
 webmin-apache
 
-python-pysqlite2
+//python-pysqlite2
 
-python-django
-libjs-jquery
+//python-django
+//libjs-jquery
 
-python-twisted          /* speeqe dependency */
-python-imaging          /* speeqe recommends */
+//python-twisted          /* speeqe dependency */
+//python-imaging          /* speeqe recommends */
 
 patch
 

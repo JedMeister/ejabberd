@@ -2,7 +2,9 @@
 
 [ "$FAB_HTTP_PROXY" ] && export HTTP_PROXY=$FAB_HTTP_PROXY
 
-git clone https://github.com/thepug/Speeqe.git /usr/local/src/speeqe
-git clone https://github.com/twonds/punjab.git /usr/local/src/punjab
+#git clone https://github.com/thepug/Speeqe.git /usr/local/src/speeqe
+#git clone https://github.com/twonds/punjab.git /usr/local/src/punjab
+
+
 
 unset HTTP_PROXY
